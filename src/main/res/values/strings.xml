@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">2048</string>
+    <string name="score">Score:</string>
+    <string name="restart">restart</string>
+    <string name="cardCount">Size</string>
+    <string name="setting">Setting</string>
+    <string name="set">Set</string>
+</resources>
